@@ -3,7 +3,7 @@
 Thực ra mình thích FE. nhưng BE cũng rất thú vị. Cái ni giúp mình test ôn lại khá nhiều thứ.
 dotenv, MongoDB, JWT với jsonwebtoken, validate với Joi, mã hoá password với bcryptjs,...
 
-Download: [File Json test PostMan](http://khanhnoi.mobie.in/json/Test API Authentication JWT .postman_collection.json)
+Download: [File Json test PostMan](http://khanhnoi.mobie.in/json/Test%20API%20Authentication%20JWT%20.postman_collection.json)
 Cách tải file .Json bằng url rất dễ. Bạn chỉ cần Ctrl - S là được.
 
 ```bash
