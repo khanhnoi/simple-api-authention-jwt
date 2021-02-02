@@ -18,9 +18,11 @@ mongoose.connect(
 
 //Import Routes
 const authRoute = require("./routes/auth");
+const postRoute = require("./routes/post");
 
 //Router middlewares
 app.use("/api/user", authRoute);
+app.use("/api/posts", postRoute);
 
 app.listen(PORT, () => console.log(`Server running at port ${PORT}`));
 
